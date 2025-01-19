@@ -1,6 +1,6 @@
 ![MasterHead](https://camo.githubusercontent.com/730beff67b68cddb97a1e755ed600cc6468f5ee5af58a573875891e8f501b05f/687474703a2f2f70726f70756c736976652e696e2f6173736574732f696d672f736572766963652d69636f6e2f7765622e676966)
 <h1 align="center">Hi 👋, I'm Waghraj Patil</h1>
-<h3 align="center">A Passionate Frontend Developer from India</h3>
+<h3 align="center">Welcome to my GitHub profile! I'm a passionate developer with experience in front-end and back-end technologies. I enjoy building interactive web applications, exploring new tech stacks, and constantly learning to improve my skills.</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXM1djdpcG1rOGhqdHNvd2F6ZDJtamc2eDc0dzBxbm9neXpjdGp0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waghraj1699&label=Profile%20views&color=0e75b6&style=flat" alt="waghraj1699" /> </p>
